@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/einstein/static/js/main.f9df781c.chunk.js",
+    "main.js.map": "/einstein/static/js/main.f9df781c.chunk.js.map",
+    "runtime-main.js": "/einstein/static/js/runtime-main.1505ef3c.js",
+    "runtime-main.js.map": "/einstein/static/js/runtime-main.1505ef3c.js.map",
+    "static/js/2.e58447c9.chunk.js": "/einstein/static/js/2.e58447c9.chunk.js",
+    "static/js/2.e58447c9.chunk.js.map": "/einstein/static/js/2.e58447c9.chunk.js.map",
+    "index.html": "/einstein/index.html",
+    "precache-manifest.dd260cf91efa4b96790bc8f7a2b0f1ab.js": "/einstein/precache-manifest.dd260cf91efa4b96790bc8f7a2b0f1ab.js",
+    "service-worker.js": "/einstein/service-worker.js",
+    "static/js/2.e58447c9.chunk.js.LICENSE.txt": "/einstein/static/js/2.e58447c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1505ef3c.js",
+    "static/js/2.e58447c9.chunk.js",
+    "static/js/main.f9df781c.chunk.js"
+  ]
+}
