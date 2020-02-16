@@ -51,6 +51,7 @@ const Navbar: FC<Props> = ({ setValue, value }) => {
           <Tab label="Critique" />
           <Tab label="Answer" />
           <Tab label="Organize" />
+          <Tab label="Approved" />
         </Tabs>
       </AppBar>
     </div>

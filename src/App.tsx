@@ -29,6 +29,9 @@ const App = () => {
         />
       )}
       {value === 2 && <OrganizePage>Get Out</OrganizePage>}
+      {value === 3 && (
+        <ListDisplay items={questions.filter(({ isApproved }) => isApproved)} />
+      )}
     </>
   );
 };
