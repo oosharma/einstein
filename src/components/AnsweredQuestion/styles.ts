@@ -18,6 +18,7 @@ export const StyledFlex = styled(Flex)<{ clickable?: boolean }>`
       justify-content: center;
     &:hover {
       background-color: ${colors.blueShade};
+      cursor: pointer;
     }
   `
       : ""}

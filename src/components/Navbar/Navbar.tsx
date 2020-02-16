@@ -48,9 +48,9 @@ const Navbar: FC<Props> = ({ setValue, value }) => {
           onChange={(_, newValue) => setValue(newValue)}
           aria-label="simple tabs example"
         >
-          <Tab label="Critique" />
-          <Tab label="Answer" />
-          <Tab label="Organize" />
+          <Tab label="Upvote Answered Questions" />
+          <Tab label="Provide Answers" />
+          <Tab label="Add Categories" />
           <Tab label="Approved" />
         </Tabs>
       </AppBar>
